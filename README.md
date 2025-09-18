@@ -1,2 +1,2 @@
 # EstudoJava
- Material do Curso
+ Material dos meus estudos da **linguagem Java**.
